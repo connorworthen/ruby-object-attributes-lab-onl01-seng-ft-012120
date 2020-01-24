@@ -16,4 +16,4 @@ class Dog
   end
 end
 
-@name = Fido.new
+fido = Dog.new
